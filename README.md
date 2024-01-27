@@ -1,5 +1,11 @@
 # ChatCrypt: Encrypted Chat With Socket Programming
 
+### Project Contributors
+* Chitra Sharma
+* Divyanshu Sharma
+* Shruti Agrawal
+* Shubhi Dixit
+
 ## Overview
 
 The project aims to develop a secure multithreaded messaging application using socket programming in Java. The project focuses on implementing robust encryption and decryption techniques through cryptographic algorithms to ensure the confidentiality and integrity of communication between peers. By leveraging socket programming and cryptography, the project provides a practical solution for secure data exchange in networked environments.
@@ -84,4 +90,3 @@ This secure messaging application can find utility in various domains, including
 - **Cybersecurity Awareness**: Secure chat apps can be used to raise awareness about cybersecurity issues and best practices, educating users about the importance of secure communication.
 
 
-**NOTE**: This is an ongoing project. It is not yet completed.
