@@ -2,7 +2,7 @@
 
 ### Project Contributors
 * Chitra Sharma
-* Divyanshu Sharma
+* Divyanshu Singh
 * Shruti Agrawal
 * Shubhi Dixit
 
