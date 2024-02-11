@@ -59,6 +59,12 @@ The project's overarching goal is to design, develop, and deploy a secure messag
 1. Implement error handling mechanisms to manage communication disruptions and exceptions.
 2. Ensure secure handling of keys and sensitive data to prevent unauthorized access.
 
+   ![image](https://github.com/Shubhiidixit/Minor-FinalProject/assets/123651074/5879e434-c5e1-47c4-935b-353b6e89a53c)
+
+<br>
+   
+   ![image](https://github.com/Shubhiidixit/Minor-FinalProject/assets/123651074/da690df2-f881-4f82-aa04-32e7de464d4e)
+
 ## Application
 
 This secure messaging application can find utility in various domains, including:
