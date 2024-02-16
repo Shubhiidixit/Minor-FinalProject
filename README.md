@@ -1,6 +1,7 @@
 # ChatCrypt: Encrypted Chat With Socket Programming
 
-### Project Contributors
+## Project Contributors
+
 * Chitra Sharma
 * Divyanshu Singh
 * Shruti Agrawal
