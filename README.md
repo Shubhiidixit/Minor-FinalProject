@@ -23,6 +23,9 @@ The project's overarching goal is to design, develop, and deploy a secure messag
 
 4. **User-Friendly Interface**: Design a user-friendly interface that facilitates easy and intuitive communication, ensuring that users can engage in secure conversations without added complexity.
 
+## Technology Stack
+* Language- HTML, CSS, Java Swing and Java AWT
+
 ## Methodology
 
 ### Socket Communication Setup
@@ -95,5 +98,20 @@ This secure messaging application can find utility in various domains, including
 - **Customer Support**: Businesses can provide secure chat support for customers who have concerns about sensitive account information or need assistance with confidential matters.
 
 - **Cybersecurity Awareness**: Secure chat apps can be used to raise awareness about cybersecurity issues and best practices, educating users about the importance of secure communication.
+
+## Screenshots
+
+- Server and multiple clients communication
+![image](https://github.com/user-attachments/assets/803defc3-0417-429d-8d8f-4a05bd213e34)
+
+- File sharing
+![image](https://github.com/user-attachments/assets/585ba99e-ddaa-4ece-8f70-fedd7d7b4f61)
+
+- File sent and received
+![image](https://github.com/user-attachments/assets/cabcad62-62dc-489c-bc50-b777f653287b)
+
+
+
+
 
 
