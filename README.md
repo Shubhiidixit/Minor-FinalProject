@@ -11,7 +11,7 @@
 
 The project aims to develop a secure multithreaded messaging application using socket programming in Java. The project focuses on implementing robust encryption and decryption techniques through cryptographic algorithms to ensure the confidentiality and integrity of communication between peers. By leveraging socket programming and cryptography, the project provides a practical solution for secure data exchange in networked environments.
 
-## Objective
+## Objectives
 
 The project's overarching goal is to design, develop, and deploy a secure messaging application that tackles these issues head-on. The application should fulfill the following objectives:
 
