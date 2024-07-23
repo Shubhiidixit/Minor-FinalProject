@@ -102,12 +102,15 @@ This secure messaging application can find utility in various domains, including
 ## Screenshots
 
 - Server and multiple clients communication
+  
 ![image](https://github.com/user-attachments/assets/803defc3-0417-429d-8d8f-4a05bd213e34)
 
 - File sharing
+  
 ![image](https://github.com/user-attachments/assets/585ba99e-ddaa-4ece-8f70-fedd7d7b4f61)
 
 - File sent and received
+  
 ![image](https://github.com/user-attachments/assets/cabcad62-62dc-489c-bc50-b777f653287b)
 
 
