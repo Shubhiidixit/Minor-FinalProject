@@ -69,6 +69,11 @@ The project's overarching goal is to design, develop, and deploy a secure messag
    
    ![image](https://github.com/Shubhiidixit/Minor-FinalProject/assets/123651074/da690df2-f881-4f82-aa04-32e7de464d4e)
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/2c304cb1-ad01-4475-a760-3b4643487381">
+</div>                                                      
+
+
 ## Applications
 
 This secure messaging application can find utility in various domains, including:
